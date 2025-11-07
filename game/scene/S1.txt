@@ -1,1 +1,7 @@
-intro: -fontSize=medium -backgroundColor=rgba(255, 255, 255, 1) -fontColor=rgba(0, 0, 0, 1) -animation=fadeIn -delayTime=1500;
+changeBg:S1.png;
+:你看到詭異傳聞。胸口傳來一陣劇烈的魂魄絞痛，你感到莫名的憤怒和恐懼，卻不知道原因。;
+:崑崙山一角，只見雪地中一閃而逝的血光。;
+changeBg:S1-1.png;
+choose:這到底是什麼？好可怕...:选择场景文件|那是什麼東西？:选择场景文件;
+bgm:none;
+changeScene:S2.txt;
