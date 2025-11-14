@@ -1,2 +1,17 @@
-intro:S2先跳過 -fontSize=medium -backgroundColor=rgba(255, 255, 255, 1) -fontColor=rgba(0, 0, 0, 1) -animation=fadeIn -delayTime=1500;
+changeBg:S0-1.png;
+:一位的身材高大挺拔的男子經過你的身邊。;
+changeFigure:2-1.png -right;
+:你聞到他身上的雪松檀香。;
+changeBg:S1-1.png;
+changeFigure:1.png -left;
+choose:（他是誰?為什麼我對這個陌生人有這麼強烈的反應？）:选择场景文件|（?什麼鬼）:选择场景文件;
+changeBg:S0-1.png;
+:你忍不住回頭看去。;
+:卻發現他也在看著你。;
+:你忍不住仔細觀察他，他肌膚白皙，輪廓分明，帶著一種內斂的吸引力。;
+:他的墨色眼瞳像兩口深不見底的古潭，緊緊地看著你。;
+:你竟被盯紅了臉。;
+:你害羞地跑走了。;
+changeFigure:none -left;
+changeFigure:none -right;
 changeScene:S3.txt;
